@@ -1,0 +1,17 @@
+spawn 3 3
+
+enemy grunt 15 5
+enemy scout 20 10
+enemy brute 30 17
+enemy grunt 8 15
+enemy scout 25 5
+
+ammo 6 6
+ammo 18 10
+ammo 28 15
+ammo 10 18
+ammo 30 8
+
+medkit 12 5
+medkit 22 12
+medkit 5 17
